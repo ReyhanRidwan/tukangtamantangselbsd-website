@@ -34,7 +34,7 @@ const IMAGES = {
   portfolio3: "https://scontent.cdninstagram.com/v/t1.15752-9/665938339_1114405028415607_2299394070591598370_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdkOnRlc3QiXX0%3D&_nc_ohc=-g5xXxiozNgQ7kNvwFadL_h&_nc_oc=AdpAeAMgAfkGM5m-3PEVQVUQyw4VGzcJG2ghzBKRm8B_vFa8ZXKUMPdBRJJL7FVfH-moupcPM0tw9C0eHc9vF-g3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7a32e&oh=03_Q7cD5AFTNjz7ppNoYDAnoNoQP_HlIgYWJLtviaKMK3Uh1oUsTg&oe=69F9F604",
 };
 
-const WHATSAPP_LINK = "https://wa.me/6281234567890?text=Halo%20TukangTamanTangselBSD,%20saya%20ingin%20konsultasi%20mengenai%20taman.";
+const WHATSAPP_LINK = "https://wa.me/6287853053155?text=Halo%20TukangTamanTangselBSD,%20saya%20ingin%20konsultasi%20mengenai%20taman.";
 
 const PORTFOLIO_DATA = [
   { id: 1, category: 'Taman Minimalis', img: IMAGES.portfolio1 },
@@ -628,7 +628,7 @@ export default function App() {
                 </li>
                 <li className="flex items-center gap-3">
                   <Phone size={20} className="shrink-0 text-green-500" />
-                  <span>+62 812-3456-7890</span>
+                  <span>+62 878-5305-3155</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <Clock size={20} className="shrink-0 text-green-500" />
